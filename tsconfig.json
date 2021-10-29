@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "Node",
+        "module": "CommonJS",
+        "target": "ESNext",
+        "strict": true,
+        "lib": ["ES2015"],
+    },
+    "include": ["src/**/*.ts"]
+}
